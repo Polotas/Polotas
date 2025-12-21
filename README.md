@@ -3,8 +3,6 @@
 🎮 **Unity Game Developer**  
 Focused on gameplay programming, systems design, and small-to-mid scale game projects.
 
-I enjoy building complete game experiences — from core mechanics to polished gameplay — and publishing playable prototypes and finished games.
-
 🔗 **LinkedIn:**  
 https://www.linkedin.com/in/afonso-oliveira-a0980628/
 
@@ -48,7 +46,7 @@ https://www.linkedin.com/in/afonso-oliveira-a0980628/
 - Game Systems & Mechanics
 - Prototyping
 - Version Control (Git)
-- WebGL & PC Builds
+- Android/IOS/PC/WebApp Builds 
 
 ---
 
