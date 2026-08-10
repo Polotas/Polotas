@@ -37,7 +37,7 @@ https://www.linkedin.com/in/afonso-oliveira-a0980628/
       <a href="https://polotas.github.io/wingrumble/">
         <img src="assets/WingRumble.png" width="250"/>
         <br/>
-        <b>Polotas</b>
+        <b>Wing Rumble</b>
       </a>
     </td>
   </tr>
