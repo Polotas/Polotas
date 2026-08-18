@@ -41,6 +41,13 @@ https://www.linkedin.com/in/afonso-oliveira-a0980628/
       </a>
     </td>
   </tr>
+        <td align="center">
+      <a href="[https://polotas.github.io/wingrumble/](https://onegear.itch.io/boxing-card-game)">
+        <img src="assets/BoxinCardGame.png" width="250"/>
+        <br/>
+        <b>Boxing Card Game</b>
+      </a>
+    </td>
 </table>
 
 ---
